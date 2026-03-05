@@ -4,8 +4,9 @@ This project analyzes airport operational data to provide airport authorities wi
 
 **Objectives**
 Monitor total flights. 
-Track flight delay
-Measure ground processing time
-Analyze which factor effect on customer feeling
-Enable filering by time period, source, and destination
-Visualize flight routes on a map
+Track flight delay.
+Measure ground processing time.
+Analyze which factor effect on customer feeling.
+Enable filering by time period, source, and destination.
+Visualize flight routes on a map.
+On-time rate and cancelation rate.
